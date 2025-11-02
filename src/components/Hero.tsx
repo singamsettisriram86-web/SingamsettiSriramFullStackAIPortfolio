@@ -154,9 +154,9 @@ export const Hero = ({ data }: HeroProps) => {
                 className="absolute inset-0 bg-gradient-to-br from-accent-400 via-emerald-400 to-teal-500 rounded-3xl blur-2xl opacity-30"
               />
               <img
-                src="/ChatGPT Image Nov 1, 2025, 10_30_07 AM copy copy.png"
+                src="/SingamsettiSriramFullStackAIPortfolio/ChatGPT Image Nov 1, 2025, 10_30_07 AM copy copy.png"
                 alt="Singamsetti Sriram"
-                className="relative w-64 h-80 lg:w-80 lg:h-96 object-cover rounded-3xl shadow-2xl border-4 border-white/20 dark:border-white/10"
+                className="relative w-64 h-80 lg:w-80 lg:h-96 object-contain rounded-3xl shadow-2xl border-4 border-white/20 dark:border-white/10 bg-white dark:bg-slate-800"
               />
             </div>
           </motion.div>
