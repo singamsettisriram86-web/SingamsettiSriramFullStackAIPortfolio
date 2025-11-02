@@ -121,12 +121,12 @@ export const About = ({ data }: AboutProps) => {
               initial={{ opacity: 0, x: 30 }}
               animate={contentInView ? { opacity: 1, x: 0 } : {}}
               transition={{ duration: 0.6, delay: 0.6 }}
-              className="rounded-xl overflow-hidden shadow-2xl"
+              className="rounded-xl overflow-hidden shadow-2xl bg-white dark:bg-gray-800"
             >
               <img
-                src="/ChatGPT Image Nov 1, 2025, 10_30_07 AM copy copy.png"
+                src="/SingamsettiSriramFullStackAIPortfolio/ChatGPT Image Nov 1, 2025, 10_30_07 AM copy copy.png"
                 alt="Singamsetti Sriram"
-                className="w-full h-auto object-cover"
+                className="w-full h-auto object-contain"
               />
             </motion.div>
           </div>
