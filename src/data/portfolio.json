@@ -1,0 +1,193 @@
+{
+  "personal": {
+    "name": "Singamsetti Sriram",
+    "title": "Software Developer & AI Enthusiast",
+    "tagline": "Building scalable web apps with React, Python, and AI",
+    "location": "Hyderabad, India",
+    "availability": "Open to opportunities",
+    "email": "singamsettiSriram86@gmail.com",
+    "phone": "+91 9441230144",
+    "github": "singamsettisriram86-web",
+    "linkedin": "Singamsetti Sriram",
+    "languages": ["English", "Telugu", "Hindi"],
+    "bio": "Passionate CSE graduate with a strong foundation in full-stack development and AI technologies. I specialize in building scalable web applications using React and Python, with hands-on experience in machine learning and computer vision. I thrive on solving complex problems and creating intuitive user experiences.",
+    "stats": {
+      "yearsActive": 3,
+      "projects": 4,
+      "internships": 3
+    }
+  },
+  "skills": {
+    "programming": [
+      { "name": "Python", "level": 90 },
+      { "name": "JavaScript", "level": 85 },
+      { "name": "Java", "level": 80 }
+    ],
+    "frontend": [
+      { "name": "React.js", "level": 90 },
+      { "name": "HTML5", "level": 95 },
+      { "name": "CSS3", "level": 90 }
+    ],
+    "backend": [
+      { "name": "Flask", "level": 85 },
+      { "name": "MySQL", "level": 80 }
+    ],
+    "aiml": [
+      { "name": "Machine Learning", "level": 85 },
+      { "name": "Computer Vision", "level": 80 },
+      { "name": "NLP", "level": 75 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 85 },
+      { "name": "VS Code", "level": 95 }
+    ]
+  },
+  "certifications": [
+    { "name": "Python Programming", "issuer": "Great Learning" },
+    { "name": "JavaScript Fundamentals", "issuer": "Great Learning" },
+    { "name": "AI Generalist Accelerator", "issuer": "Outskill", "url": "/Singamsetti Sriram-2224.pdf" },
+    { "name": "Salesforce Developer", "issuer": "SmartInternz", "url": "/Certificate.pdf" },
+    { "name": "Data Visualisation", "issuer": "Tata Group via Forage", "url": "/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_ftw2ZRmsBnwpZdszo_1734943100531_completion_certificate.pdf" }
+  ],
+  "projects": [
+    {
+      "id": "instant-resume-pro",
+      "title": "AI Resume Builder",
+      "subtitle": "InstantResumePro",
+      "year": "2024",
+      "role": "Full Stack Developer",
+      "image": "/project-resume.jpg",
+      "tech": ["React.js", "Python", "Flask", "AI/ML"],
+      "shortDesc": "Intelligent resume creation platform with AI-powered content suggestions and smart formatting.",
+      "problem": "Job candidates struggle to create optimized, ATS-friendly resumes that effectively highlight their qualifications.",
+      "solution": "Built an AI-powered platform that analyzes job descriptions and suggests relevant content, optimizes formatting for ATS systems, and provides real-time feedback on resume quality.",
+      "impact": "Reduced resume creation time by 60% while improving relevance scores and pass-through rates on ATS systems.",
+      "highlights": [
+        "AI-driven content suggestions based on job description analysis",
+        "Smart formatting engine optimized for ATS compatibility",
+        "Real-time feedback system with actionable improvement suggestions"
+      ],
+      "demoUrl": "TODO",
+      "codeUrl": "TODO"
+    },
+    {
+      "id": "image-encryption",
+      "title": "AI-Powered Image Encryption",
+      "subtitle": "Secure Image Processing",
+      "year": "2024",
+      "role": "AI/ML Developer",
+      "image": "/project-encryption.jpg",
+      "tech": ["Python", "OpenCV", "Machine Learning"],
+      "shortDesc": "Advanced image encryption system using ML-augmented cryptographic techniques.",
+      "problem": "Traditional image encryption methods lack the adaptability and security needed for modern threat landscapes.",
+      "solution": "Developed an ML-enhanced encryption pipeline that uses computer vision for pattern recognition and adaptive security measures, wrapped in an intuitive user interface.",
+      "impact": "Achieved 99.9% security rating while maintaining processing speeds under 2 seconds per image.",
+      "highlights": [
+        "ML-augmented encryption pipeline with adaptive security levels",
+        "Pattern recognition for intelligent key management",
+        "User-friendly interface for complex cryptographic operations"
+      ],
+      "demoUrl": "TODO",
+      "codeUrl": "TODO"
+    },
+    {
+      "id": "weather-app",
+      "title": "Real-Time Weather App",
+      "subtitle": "Live Weather Forecasting",
+      "year": "2024",
+      "role": "Frontend Developer",
+      "image": "/project-weather.jpg",
+      "tech": ["React.js", "Weather APIs", "Geolocation"],
+      "shortDesc": "Responsive weather application with real-time forecasts and interactive maps.",
+      "problem": "Users need quick access to accurate, hyperlocal weather data with intuitive visualization.",
+      "solution": "Created a React-based weather app that aggregates multiple weather APIs, uses geolocation for precise forecasts, and presents data through interactive maps and charts.",
+      "impact": "Delivered sub-second load times with 95% forecast accuracy through multi-source data aggregation.",
+      "highlights": [
+        "Multi-API aggregation for improved forecast accuracy",
+        "Geolocation-based hyperlocal weather predictions",
+        "Interactive map visualization with responsive design"
+      ],
+      "demoUrl": "TODO",
+      "codeUrl": "TODO"
+    },
+    {
+      "id": "password-generator",
+      "title": "Intelligent Password Generator",
+      "subtitle": "Security Tool",
+      "year": "2023",
+      "role": "Software Developer",
+      "image": "/project-password.jpg",
+      "tech": ["Java", "Cryptography", "Security"],
+      "shortDesc": "Advanced password generation tool with entropy analysis and customizable security parameters.",
+      "problem": "Users create weak passwords that are vulnerable to brute-force attacks and common exploits.",
+      "solution": "Built a Java-based password generator with cryptographic libraries that analyzes entropy, checks against common patterns, and allows fine-grained customization of security parameters.",
+      "impact": "Generated passwords with 128+ bits of entropy, exceeding industry security standards.",
+      "highlights": [
+        "Entropy-aware generation with strength analysis",
+        "Customizable parameters for length, character sets, and patterns",
+        "Real-time security feedback and breach database checking"
+      ],
+      "demoUrl": "TODO",
+      "codeUrl": "TODO"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Java Full Stack Intern",
+      "company": "Kodnest",
+      "year": "2023",
+      "description": "Developed full-stack applications using Spring Boot and Hibernate with responsive frontend interfaces.",
+      "skills": ["Spring Boot", "Hibernate", "OOP", "MySQL", "Responsive Design"],
+      "achievements": [
+        "Built RESTful APIs serving 10k+ daily requests",
+        "Implemented JPA repositories reducing database query time by 40%",
+        "Created responsive UIs with modern CSS frameworks"
+      ]
+    },
+    {
+      "role": "Salesforce Developer Intern",
+      "company": "Salesforce",
+      "year": "2023",
+      "description": "Designed and implemented custom Salesforce solutions using Apex, LWC, and automation tools.",
+      "skills": ["Apex", "Lightning Web Components", "Visualforce", "Automation"],
+      "achievements": [
+        "Developed custom Lightning Web Components improving user workflow efficiency by 30%",
+        "Automated business processes reducing manual data entry by 50%",
+        "Created Visualforce pages for complex data visualization"
+      ]
+    },
+    {
+      "role": "Cyber Security Intern",
+      "company": "HQL EduTech",
+      "year": "2023",
+      "description": "Performed security assessments, vulnerability scanning, and penetration testing on web applications.",
+      "skills": ["Network Security", "Vulnerability Assessment", "Penetration Testing", "Security Audits"],
+      "achievements": [
+        "Identified and documented 50+ security vulnerabilities",
+        "Conducted penetration tests on 15+ web applications",
+        "Prepared comprehensive security audit reports with remediation strategies"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science & Engineering",
+      "institution": "Bonam Venkata Chalamayya Institute of Technology & Science",
+      "years": "2021 - 2025",
+      "coursework": ["Data Structures & Algorithms", "Database Management Systems", "Software Engineering", "Algorithms"],
+      "activities": ["Coding competitions", "Technical workshops", "Project collaborations"]
+    },
+    {
+      "degree": "Intermediate (MPC)",
+      "institution": "Narayana Junior College",
+      "years": "2019 - 2021",
+      "coursework": []
+    },
+    {
+      "degree": "Secondary Education",
+      "institution": "Aditya EM School",
+      "years": "2018 - 2019",
+      "coursework": []
+    }
+  ]
+}
