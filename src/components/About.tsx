@@ -124,7 +124,7 @@ export const About = ({ data }: AboutProps) => {
               className="rounded-xl overflow-hidden shadow-2xl bg-white dark:bg-gray-800"
             >
               <img
-                src="/SingamsettiSriramFullStackAIPortfolio/ChatGPT Image Nov 1, 2025, 10_30_07 AM copy copy.png"
+                src="/ChatGPT Image Nov 1, 2025, 10_30_07 AM copy copy.png"
                 alt="Singamsetti Sriram"
                 className="w-full h-auto object-contain"
               />
